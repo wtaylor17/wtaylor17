@@ -13,5 +13,3 @@ My research interests include Deep Learning applied to sequence processing and w
 
 
 ![wtaylor17's github stats](https://github-readme-stats.vercel.app/api?username=wtaylor17&show_icons=true&count_private=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wtaylor17&lang_count=4)](https://github.com/anuraghazra/github-readme-stats)
