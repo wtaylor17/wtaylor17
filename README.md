@@ -9,4 +9,6 @@ My research interests include Deep Learning applied to sequence processing and w
 - 🔭 I’m currently working on research in the area of sequence processing using new RNN architectures
 - 👯 I’m looking to collaborate on anything python, deep learning, or new testing frameworks
 - 📫 Reach me by email: wtaylor@upei.ca
+
+
 ![wtaylor17's github stats](https://github-readme-stats.vercel.app/api?username=wtaylor17&show_icons=true)
