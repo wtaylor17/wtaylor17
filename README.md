@@ -14,4 +14,4 @@ My research interests include Deep Learning applied to sequence processing and w
 
 ![wtaylor17's github stats](https://github-readme-stats.vercel.app/api?username=wtaylor17&show_icons=true&count_private=true)
 
-<img src="image1.png" width="100" height="100">
+<img src="image1.png" width="100" height="100"> It's Me 🦔
