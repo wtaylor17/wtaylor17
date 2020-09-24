@@ -5,6 +5,8 @@ My name is Will Taylor-Melanson. I'm a 5th year student of Mathematics and Compu
 honours project during my final year of study. I work as a software developer
 on the AI/ML team at Thinking Big, Inc. in Charlottetown, Prince Edward Island, Canada.
 My research interests include Deep Learning applied to sequence processing and wearable interactive systems.
+My personal interests include competitive programming (mostly on [kattis](https://open.kattis.com/)) and
+deep learning visualization techniques.
 
 - 🔭 I’m currently working on research in the area of sequence processing using new RNN architectures
 - 👯 I’m looking to collaborate on anything python, deep learning, or new testing frameworks
