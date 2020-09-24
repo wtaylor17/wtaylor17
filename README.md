@@ -8,10 +8,11 @@ My research interests include Deep Learning applied to sequence processing and w
 My personal interests include competitive programming (mostly on [kattis](https://open.kattis.com/)) and
 deep learning visualization techniques.
 
-- 🔭 I’m currently working on research in the area of sequence processing using new RNN architectures
-- 👯 I’m looking to collaborate on anything python, deep learning, or new testing frameworks
-- ㊙️ At least two major projects in areas mentioned above hope to go public within the next year.
-- 📫 Reach me by email: wtaylor@upei.ca
+- 🔭   I’m currently working on research in the area of sequence processing using new RNN architectures
+- 🤖🚶 Additional current research on [volume-preserving neural networks](https://github.com/wtaylor17/vpnn-tf2) and human movement analysis
+- 👯   I’m looking to collaborate on anything python, deep learning, or new testing frameworks
+- ㊙️   At least two major projects in areas mentioned above hope to go public within the next year
+- 📫   Reach me by email: wtaylor@upei.ca
 
 
 ![wtaylor17's github stats](https://github-readme-stats.vercel.app/api?username=wtaylor17&show_icons=true&count_private=true)
